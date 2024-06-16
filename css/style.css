@@ -1,1 +1,48 @@
 
+body {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+min-height: 100vh;
+background-color: #111;
+color: #fff;
+font-family: "Nunito",sans-serif
+}
+
+/* header {
+  width: 100%;
+  height: 150px;
+  background: lime;
+} */
+
+.container {
+width: 80%;
+margin: 15px;
+padding: 4px;
+}
+
+footer
+{
+  padding: 2rem;
+  background-color: #212121;
+  text-align: center
+}
+
+ul li {
+  margin-bottom: 2px;
+}
+
+
+
+
+/* The Typewriter */
+
+#typewriter {
+	color: lime;
+	font-size: 21px;
+	font-weight: 800;
+}
+
+.cursor {
+	border-left: 4px solid white;
+}
